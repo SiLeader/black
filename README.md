@@ -4,6 +4,7 @@
 
 ## feature
 + C++ allocator
++ only one header file (black.hpp)
 + 2 allocation system
   + bit allocation subsystem (black::subsystems::BitAllocationSubsystem) (default)
   + linked list allocation subsystem (black::subsystems::LinkedListAllocationSubsystem)
